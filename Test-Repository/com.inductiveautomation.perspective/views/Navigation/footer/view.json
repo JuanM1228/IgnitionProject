@@ -1,8 +1,29 @@
 {
   "custom": {},
   "params": {},
-  "props": {},
+  "props": {
+    "defaultSize": {
+      "height": 630
+    }
+  },
   "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "Label"
+        },
+        "position": {
+          "height": 66,
+          "width": 237,
+          "x": 139.76,
+          "y": 100
+        },
+        "props": {
+          "text": "Label"
+        },
+        "type": "ia.display.label"
+      }
+    ],
     "meta": {
       "name": "root"
     },
