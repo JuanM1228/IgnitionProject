@@ -55,6 +55,7 @@
     "device": {},
     "geolocation": {},
     "locale": "es-MX",
+    "theme": "dark-cool",
     "timeZoneId": "America/Chicago"
   }
 }

@@ -1,5 +1,9 @@
 {
-  "pages": {},
+  "pages": {
+    "/": {
+      "viewPath": "Navigation/Menu"
+    }
+  },
   "sharedDocks": {
     "cornerPriority": "top-bottom"
   }
